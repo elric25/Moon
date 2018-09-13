@@ -1,0 +1,60 @@
+body {
+	font-size: 14pt;
+	font-family: Sans-serif;
+	color: black, red, blue;
+	line-height: 14pt;
+	padding-left: 5pt;
+	padding-right: 5pt;
+	padding-top: 5pt;
+}
+
+
+h1{
+	font: 30pt times-new-roman;
+	font-weight: bold;
+	line-height: 20pt;
+}
+h2{
+	font: 16pt times-new-roman;
+	font-weight: bold;
+	line-height: 20pt;
+}
+h3{
+	font: 12pt times-new-roman;
+	font-weight: bold;
+	line-height: 20pt;
+}
+h4{
+	font: 14pt times-new-roman;
+	font-weight: bold;
+	line-height: 20pt;
+}
+
+p.subheader {
+	font-weight: bold;
+	color: green;
+}
+
+img {
+	padding: 2pt;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	color: purple;
+}
+
+a:hover, a:active{
+	color: orange;
+}
+
+footer{
+	font-size: 9pt;
+	font-style: italic;
+	line-height: 12pt;
+	text-align: center;
+	padding-top: 30pt;
+}
